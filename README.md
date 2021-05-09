@@ -1,5 +1,5 @@
 # Peer-Graded-assignment-1
-Introduction
+# Introduction
 This assignment uses data from the UC Irvine Machine Learning Repository, a popular repository for machine learning datasets. In particular, we will be using the "Individual household electric power consumption Data Set" which I have made available on the course web site:
 
 Dataset: Electric power consumption [20Mb]
@@ -44,14 +44,3 @@ Create a separate R code file (plot1.R, plot2.R, etc.) that constructs the corre
 Add the PNG file and R code file to your git repository
 
 When you are finished with the assignment, push your git repository to GitHub so that the GitHub version of your repository is up to date. There should be four PNG files and four R code files.
-
-The four plots that you will need to construct are shown below.
-
-Plot 1
-
-
-Plot 2
-
-Plot 3
-
-Plot 4
